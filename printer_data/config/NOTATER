@@ -6,7 +6,7 @@ Kjør:
 TEST_RESONANCES AXIS=X
 TEST_RESONANCES AXIS=Y
 
-SSH inn på PI: Voron
+SSH inn på PI:
 
 Gå til /tmp mappe, se etter 2 stk csv. filer
 
